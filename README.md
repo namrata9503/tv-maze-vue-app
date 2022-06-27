@@ -5,13 +5,14 @@ The page contains:
 Navigation Menu with menu;
 Menu for showing shows and searching shows.
 
-* Home page. Home page shows All shows by default and in search input we can search show name and see the list.
+* Home page. This page shows All shows by default and in search input we can search show name and see the list.
 
-* All shows page shows the slider with filtered shows and sorted by popular with ratings.
+* All shows page shows the slider with filtered shows and sorted by popularity.
 
 * Shows Details. Clicking on show image , we can see the details of show.
 
-![](./src/assets/tv-maze-demo.mp4)
+
+ ![watch demo here](/assets/tv-maze-demo.mp4) or download from  ![here](https://github.com/namrata9503/tv-maze-vue-app/blob/master/src/assets/tv-maze-demo.mp4)
 
 
 # vue-app
